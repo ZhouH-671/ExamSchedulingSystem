@@ -1,0 +1,2 @@
+# ExamSchedulingSystem
+这是一个基于Java代码开发的简单考试安排系统，是小h的《Java编程原理》课程的结课作业
